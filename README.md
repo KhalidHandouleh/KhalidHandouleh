@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhalidHandouleh
 - 👀 I’m interested in Music, Travel and Sports.
-- 🌱 I’m currently learning  Data Science, Business Intelligence Analysis and Data Analysis.
+- 🌱I’m a Data Scientist, Business Intelligence Analyst, and Data Analyst.
 - 💞️ I’m looking to collaborate on data science roles.
 - 📫 How to reach me https://www.linkedin.com/in/khalid-youssouf-handouleh-804339181/
 
